@@ -1,0 +1,21 @@
+
+// To merge branches locally, use git checkout to switch to the branch you want to merge into.
+
+master* 
+  هنا انتقلنا للفرع الأساسي master وتأكدنا بوجود (النجمة) بجواره أي أننا فعلاً ضمنه الآن//
+
+git merge (اسم البرانش) // طريقة الدمج
+
+Type of merge 
+
+1- Fast forward merge (كل البرانشات تكون على امتداد واحد)
+Fast forward merge can be performed when there is a direct linear path from the source branch to the target branch. In fast-forward merge, git simply moves the source branch pointer to the target branch pointer without creating an extra merge commit.
+
+2- Three-way merge (امتداد البرانشات يكون مختلف)
+ A three-way merge is performed after an automated difference analysis between a file "A" and a file "B" while also considering the origin, or common ancestor, of both files "C"
+
+
+
+
+
+

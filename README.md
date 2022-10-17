@@ -188,7 +188,13 @@ Fast forward merge can be performed when there is a direct linear path from the 
   
  
 # Github
-	  ![Gitvs_Github-1a-1](https://user-images.githubusercontent.com/92294615/196163658-474a6913-c62c-40b9-86bf-ab3182015368.jpg)
+	  
+	  
+	  
+	  
+	  
+  <img width="956" alt="image" src="https://user-images.githubusercontent.com/92294615/196164412-abe9900b-c245-4084-a451-058ad55780bd.jpg">
+
 
 
 	  

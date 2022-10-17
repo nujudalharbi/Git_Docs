@@ -188,8 +188,8 @@ Fast forward merge can be performed when there is a direct linear path from the 
   
  
 # Github
-	  
-	  ![Gitvs_Github-1a-1](https://user-images.githubusercontent.com/92294615/196154485-fc9880a0-cb6a-4cbb-ba81-12516ee7b3bc.jpg)
+	  ![Gitvs_Github-1a-1](https://user-images.githubusercontent.com/92294615/196163658-474a6913-c62c-40b9-86bf-ab3182015368.jpg)
+
 
 	  
 	  
@@ -197,19 +197,31 @@ Fast forward merge can be performed when there is a direct linear path from the 
 هو عبارة عن جهاز كمبيوتر في مكان ما يمكن التعامل معه ورفع الملفات  والتعديل عليها بشكل فردي او جماعي.
 
 خطوات العمل في قروب:
-Create Repo in Githup
+
 	  
-Create Team
+	  Create Repo in Githup
+	  
+	  
+
+	  Create Team
 	  
 	  
 يقوم الليدر بإرسال دعوة الى المتعاونين من خلال اسم المستخدم
-تصل الرسالة الى الاعضاء عبر الايميل المسجل فيGithub
- يقبل الاعضاء الدعوة
-يظهر لجميع الاعضاء في Githubالخاص فيهم نفس Repoالمنشى    
+	  
+
+	  تصل الرسالة الى الاعضاء عبر الايميل المسجل فيGithub
+ 
+	  يقبل الاعضاء الدعوة
+
+	  يظهر لجميع الاعضاء في Githubالخاص فيهم نفس Repoالمنشى    
   
-	                                                                             Github  من Cobe المنشى وعمل التعديل من خلال نسخ  Repo يلزم الاعضاء تنزيل
-                                                                                                                                             Git Clone
-   التى تستخدم بشكل أساسي لعمل نسخة من هذاRepo في جهازك
+	                                                                           
+	  Github  من Cobe المنشى وعمل التعديل من خلال نسخ  Repo يلزم الاعضاء تنزيل
+                                                                                                                                             
+	  Git Clone
+	  
+   التى تستخدم بشكل أساسي لعمل نسخة من هذاRepo في جهازك.
+	  
   بعد تنزيل الملف يستطيع جميع الاعضاء اضافة الافرع او رفع ملفاتهم عليه من خلال الاوامر التالية:    
   
   

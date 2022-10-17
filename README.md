@@ -156,7 +156,7 @@ git push -u origin main
 
 
 
-
+# merge 
 
 
 The "merge" command is used to integrate changes from another branch.
@@ -187,7 +187,7 @@ Fast forward merge can be performed when there is a direct linear path from the 
   
   
  
- Github
+# Github
 
 هو عبارة عن جهاز كمبيوتر في مكان ما يمكن التعامل معه ورفع الملفات  والتعديل عليها بشكل فردي او جماعي.
 

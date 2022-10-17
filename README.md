@@ -103,3 +103,36 @@ Fast forward merge can be performed when there is a direct linear path from the 
   
   
   <img width="956" alt="image" src="https://user-images.githubusercontent.com/91421012/196152755-c4a02609-e886-43e1-8a14-92ccac8cbfac.png">
+  
+  
+  
+  
+  
+  
+ 
+ Github
+Github-->
+هو عبارة عن جهاز كمبيوتر في مكان ما يمكن التعامل معه ورفع الملفات  والتعديل عليها بشكل فردي او جماعي.
+
+خطوات العمل في قروب
+Create Repo in Githup
+Create Team
+يقوم الليدر بإرسال دعوة الى المتعاونين من خلال اسم المستخدم
+تصل الرسالة الى الاعضاء عبر الايميل المسجل  
+يقبل الاعضاء الدعوة
+يظهر لجميع الاعضاء ب Github الخاص فيهم نفس Repo المنشى
+يلزم الاعضاء تنزيل Repo المنشى وعمل التعديل من خلال نسخ Code من Github واستخدام الامر 
+Git Clone--‫<‬
+التى تستخدم بشكل أساسي لعمل نسخة من هذا Repo في جهازك.
+بعد تنزيل الملف يستطيع جميع الاعضاء اضافة الافرع ‪(bransh)‬  او رفع ملفاتهم عليه من خلال الاوامر التالية:
+         Git Add .   
+  Git Commit -m"..."
+Git Push
+
+
+
+![Gitvs_Github-1a-1](https://user-images.githubusercontent.com/92294615/196154485-fc9880a0-cb6a-4cbb-ba81-12516ee7b3bc.jpg)
+
+
+
+

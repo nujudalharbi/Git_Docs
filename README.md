@@ -219,18 +219,18 @@ Fast forward merge can be performed when there is a direct linear path from the 
  
  <p>	 يقبل الاعضاء الدعوة   </p>
 
-  
-	                                                                           
-	  Github  من Cobe المنشى وعمل التعديل من خلال نسخ  Repo يلزم الاعضاء تنزيل
+
+	  يلزم الاعضاء تنزيل Repo المنشى وعمل التعديل من خلال نسخ Code من Github                                                          
+	 
 	                                                                                                                           
-	  <h>  Git Clone</h>
-	  <p>
+	    Git Clone
+	  
    التى تستخدم بشكل أساسي لعمل نسخة من هذاRepo في جهازك.
 	  
   بعد تنزيل الملف يستطيع جميع الاعضاء اضافة الافرع او رفع ملفاتهم عليه من خلال الاوامر التالية:    
   
   
-	  </p>
+	  
   
 	      Git Add . 
 	  

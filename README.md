@@ -79,6 +79,9 @@ git init في هذه الحالة ماستخدم امر
 
 
 
+
+
+
 The "merge" command is used to integrate changes from another branch.
 
 To do a merge (locally), git checkout the branch you want to merge INTO. Then type git merge <branch> 
@@ -96,6 +99,7 @@ Fast forward merge can be performed when there is a direct linear path from the 
  A three-way merge is performed after an automated difference analysis between a file "A" and a file "B" while also considering the origin, or common ancestor, of both files “C"
 
 
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/91421012/196152755-c4a02609-e886-43e1-8a14-92ccac8cbfac.png">
-
- A three-way merge is performed after an automated difference analysis between a file "A" and a file "B" while also considering the origin, or common ancestor, of both files “C"
+  
+  
+  
+  <img width="956" alt="image" src="https://user-images.githubusercontent.com/91421012/196152755-c4a02609-e886-43e1-8a14-92ccac8cbfac.png">

@@ -205,11 +205,11 @@ Fast forward merge can be performed when there is a direct linear path from the 
 </h>
 
 	  
-	  <p> Create Repo in Githup</p>
+	   Create Repo in Githup
 	  
 	  
 
-	 <p>  Create Team </p>
+	   Create Team 
 	  
 	  
 يقوم الليدر بإرسال دعوة الى المتعاونين من خلال اسم المستخدم
@@ -220,9 +220,9 @@ Fast forward merge can be performed when there is a direct linear path from the 
  <p>	 يقبل الاعضاء الدعوة   </p>
 
   
-	<p>                                                                           
+	                                                                           
 	  Github  من Cobe المنشى وعمل التعديل من خلال نسخ  Repo يلزم الاعضاء تنزيل
-	  </p>                                                                                                                         
+	                                                                                                                           
 	  <h>  Git Clone</h>
 	  <p>
    التى تستخدم بشكل أساسي لعمل نسخة من هذاRepo في جهازك.
@@ -232,11 +232,11 @@ Fast forward merge can be performed when there is a direct linear path from the 
   
 	  </p>
   
-	  <p>    Git Add . </p>
+	      Git Add . 
 	  
-	  <p> Git Commit -m"..."</p>
+	   Git Commit -m"..."
 	  
-	  <p>Git Push</p>
+	  Git Push
 	  
 
 
